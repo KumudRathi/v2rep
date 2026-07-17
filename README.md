@@ -3,7 +3,7 @@
 
 An AI agent application built with Python and Flask, powered by the Groq API (Llama 3.3 70B). The agent supports tool-calling capabilities and is deployed on Vercel.
 
-**Live demo:** https://ai-agent-v2-tau.vercel.app/
+**Live demo:** https://v2rep.vercel.app/
 
 ## Overview
 
