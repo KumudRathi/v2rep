@@ -1,0 +1,322 @@
+[
+    {
+        "role": "user",
+        "content": "Hello, how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good, thank you!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again! Is there something I can help you with or would you like to chat?"
+    },
+    {
+        "role": "user",
+        "content": "hello my name is raj"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Raj! How's your day going so far?"
+    },
+    {
+        "role": "user",
+        "content": "tell me my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Raj."
+    },
+    {
+        "role": "user",
+        "content": "what is 2*4"
+    },
+    {
+        "role": "assistant",
+        "content": "The result of 2*4 is 8."
+    },
+    {
+        "role": "user",
+        "content": "Hello, how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good, thank you!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "5*5"
+    },
+    {
+        "role": "assistant",
+        "content": "The result of 5*5 is 25."
+    },
+    {
+        "role": "user",
+        "content": "59-5"
+    },
+    {
+        "role": "assistant",
+        "content": "The result of 59-5 is 54."
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "my name is shikhar"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Shikhar!"
+    },
+    {
+        "role": "user",
+        "content": "tell me my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Shikhar."
+    },
+    {
+        "role": "user",
+        "content": "5-5"
+    },
+    {
+        "role": "assistant",
+        "content": "The result of 5-5 is 0."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "Convert 50 USD to INR"
+    },
+    {
+        "role": "assistant",
+        "content": "50 USD is equal to 4812.00 INR."
+    },
+    {
+        "role": "user",
+        "content": "Who is Elon Musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"tool\":\"wikipedia\",\n    \"topic\":\"Elon Musk\"\n}"
+    },
+    {
+        "role": "user",
+        "content": "Who is Elon Musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"tool\":\"wikipedia\",\n    \"topic\":\"Elon Musk\"\n}"
+    },
+    {
+        "role": "user",
+        "content": "Who is Elon Musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate and entrepreneur who has founded or co-founded companies like PayPal, SpaceX, Tesla, Neuralink, and The Boring Company. He is known for his ambitious goals, such as reducing global warming through sustainable energy and making humanity a multi-planetary species."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate and entrepreneur who has founded or co-founded companies like PayPal, SpaceX, Tesla, Neuralink, and The Boring Company. He is known for his ambitious goals, such as reducing global warming through sustainable energy and making humanity a multi-planetary species."
+    },
+    {
+        "role": "user",
+        "content": "contvert 50 usd to inr"
+    },
+    {
+        "role": "assistant",
+        "content": "50 USD is equal to 4812.00 INR."
+    },
+    {
+        "role": "user",
+        "content": "convert 50 usd to inr"
+    },
+    {
+        "role": "assistant",
+        "content": "50 USD is equal to 4812.00 INR."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a business magnate and entrepreneur who has founded or co-founded companies like PayPal, SpaceX, Tesla, Neuralink, and The Boring Company. He is known for his ambitious goals, such as reducing global warming through sustainable energy and making humanity a multi-planetary species."
+    },
+    {
+        "role": "user",
+        "content": "who is john sena"
+    },
+    {
+        "role": "assistant",
+        "content": "John Cena is an American professional wrestler, actor, television host, and former rapper. He is best known for his time in the WWE, where he won multiple championships and became one of the most popular and successful wrestlers of all time. He has also appeared in numerous films and television shows, and has become a successful actor and entertainer outside of the wrestling world."
+    },
+    {
+        "role": "user",
+        "content": "who is modi"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi is the 14th and current Prime Minister of India. He has been in office since 2014 and is a member of the Bharatiya Janata Party (BJP). Before becoming Prime Minister, he served as the Chief Minister of Gujarat from 2001 to 2014. Modi is known for his economic development policies, his efforts to promote Hindu nationalism, and his strong leadership style. He has implemented various initiatives and programs aimed at improving the lives of Indians, such as the Swachh Bharat Abhiyan (Clean India Mission) and the Make in India program."
+    },
+    {
+        "role": "user",
+        "content": "convert to 60inr to usd"
+    },
+    {
+        "role": "assistant",
+        "content": "60 INR is equal to 0.62 USD."
+    },
+    {
+        "role": "user",
+        "content": "who is kumud rathi"
+    },
+    {
+        "role": "assistant",
+        "content": "I couldn't find any information on a person named Kumud Rathi. It's possible that the person is not a public figure or doesn't have a significant online presence. If you could provide more context or details about who Kumud Rathi is or what they are known for, I may be able to help you better."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Shikhar."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "my name is..?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Shikhar."
+    },
+    {
+        "role": "user",
+        "content": "10usd to inr...??"
+    },
+    {
+        "role": "assistant",
+        "content": "10 USD is equal to 962.40 INR."
+    },
+    {
+        "role": "user",
+        "content": "hellooo"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "gurgaon"
+    },
+    {
+        "role": "assistant",
+        "content": "Gurgaon, also known as Gurugram, is a city located in the state of Haryana, India. It is a major financial and industrial hub, and is part of the National Capital Region (NCR) of Delhi. Gurgaon is known for its modern infrastructure, shopping malls, and business parks, and is home to many multinational companies and startups."
+    },
+    {
+        "role": "user",
+        "content": "sohna"
+    },
+    {
+        "role": "assistant",
+        "content": "Sohna is a town located in the Gurgaon district of Haryana, India. It is situated about 24 kilometers south of Gurgaon city and is known for its natural hot springs, which are believed to have medicinal properties. Sohna is also a popular tourist destination, with attractions such as the Sohna Lake, the Damdama Lake, and the Aravalli Hills. The town is also home to several resorts, hotels, and spas, making it a popular weekend getaway for people from nearby cities."
+    },
+    {
+        "role": "user",
+        "content": "weather of sohna"
+    },
+    {
+        "role": "assistant",
+        "content": "The current weather in Sohna is mostly sunny with a temperature of 31.1°C and a wind speed of 4.7 km/h."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "sonam bajpa"
+    },
+    {
+        "role": "assistant",
+        "content": "Sonam Bajwa is an Indian actress who primarily works in Punjabi cinema. She has appeared in several popular films, including \"Punjab 1984\", \"Sardar Ji\", and \"Manje Bistre\"."
+    }
+]
